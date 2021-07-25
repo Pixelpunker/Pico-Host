@@ -49,7 +49,7 @@ chmod +x install-pico8.sh
 ```
 After successful installation the system reboots.
 
-<img src="https://github.com/Pixelpunker/Pico-Host/blob/main/images/mainp8.png"></img>
+<img src="https://github.com/Pixelpunker/Pico-Host/blob/master/images/mainp8.png"></img>
 
 Your new home screen.
 
@@ -61,22 +61,22 @@ PICO-8 is properly installed with the following additional features:
 - Press select for a screenshot
 - Hold select for 0.5 s for a video
 
-<img src="https://github.com/Pixelpunker/Pico-Host/blob/main/images/subp8.png"></img>
+<img src="https://github.com/Pixelpunker/Pico-Host/blob/master/images/subp8.png"></img>
 
 Launch PICO-8 in splore mode by choosing 'console' You can also swap controls between "Xbox style" ❎⭕ (which is the PICO-8 default) or "Nintendo Style" ⭕❎.
 
 
-<img src="https://github.com/Pixelpunker/Pico-Host/blob/main/images/screensh.png"></img>
+<img src="https://github.com/Pixelpunker/Pico-Host/blob/master/images/screensh.png"></img>
 
 Browse screenshots and gifs you took with the select key directly on your Game Pi Micro.
 
 
-<img src="https://github.com/Pixelpunker/Pico-Host/blob/main/images/BJgqjJ.gif"></img>
+<img src="https://github.com/Pixelpunker/Pico-Host/blob/master/images/BJgqjJ.gif"></img>
 
 Play PICO racer using the shoulder buttons.
 
 ### Controls
-<img src="https://github.com/Pixelpunker/Pico-Host/blob/main/images/40_Shortcuts.png"></img>
+<img src="https://github.com/Pixelpunker/Pico-Host/blob/master/images/40_Shortcuts.png"></img>
 
 You can test the (swapped) controls by lauching API.p8.
 
